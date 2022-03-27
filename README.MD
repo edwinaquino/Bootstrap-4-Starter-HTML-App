@@ -2,6 +2,9 @@
 
 A simple index.html starter template for using Bootstrap 4 and Jquery V3.
 
+## Demo
+A live demo using GitHub Pages: [Demo](https://edwinaquino.github.io/Bootstrap-4-Starter-HTML-App/)
+
 ## Installation
 
 Installation is very simple, you can download or clone this repository. If you really want to keep things very simple, copy and past the HTML code from the index.html file
