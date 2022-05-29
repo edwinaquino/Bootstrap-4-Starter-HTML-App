@@ -25,7 +25,7 @@ code .
 ```
 4. Run the application:
 Install and run the Live Server extension in VS Code.
-
+![vs-code-live-server](https://user-images.githubusercontent.com/30946443/170859937-5e291ee6-f14a-4645-a4fa-2c141aa2fb1d.jpg)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
