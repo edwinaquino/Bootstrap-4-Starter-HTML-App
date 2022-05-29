@@ -19,7 +19,11 @@ git clone https://github.com/edwinaquino/Bootstrap-4-Starter-HTML-App.git
 ```bash
 cd  Bootstrap-4-Starter-HTML-App
 ```
-3. Run the application:
+3. Ope the app in VS Code:
+```bash
+. code  
+```
+4. Run the application:
 Install and run the Live Server extension in VS Code.
 
 
