@@ -7,7 +7,21 @@ A live demo using GitHub Pages: [Demo](https://edwinaquino.github.io/Bootstrap-4
 
 ## Installation
 
-Installation is very simple, you can download or clone this repository. If you really want to keep things very simple, copy and past the HTML code from the index.html file
+Installation is very simple, you can download or clone this repository. If you really want to keep things very simple, copy and past the HTML code from the index.html file.
+
+## Running Live Server
+If you are using VS Code with live server, follow these steps:
+1. Clone this script:
+```bash
+git clone https://github.com/ Bootstrap-4-Starter-HTML-App.git
+```
+2. Change Directory to the app.
+```bash
+cd  Bootstrap-4-Starter-HTML-App
+```
+3. Run the application:
+Install and run the Live Server extension in VS Code.
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
