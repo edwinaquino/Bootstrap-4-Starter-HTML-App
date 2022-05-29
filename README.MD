@@ -13,7 +13,7 @@ Installation is very simple, you can download or clone this repository. If you r
 If you are using VS Code with live server, follow these steps:
 1. Clone this script:
 ```bash
-git clone https://github.com/ Bootstrap-4-Starter-HTML-App.git
+git clone https://github.com/edwinaquino/Bootstrap-4-Starter-HTML-App.git
 ```
 2. Change Directory to the app.
 ```bash
